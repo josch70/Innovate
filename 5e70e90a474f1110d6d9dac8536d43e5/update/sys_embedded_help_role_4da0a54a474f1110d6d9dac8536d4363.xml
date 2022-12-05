@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_934430_innovate.employee" name="x_934430_innovate.employee">89a0a54a474f1110d6d9dac8536d4361</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 07:12:40</sys_created_on>
+        <sys_id>4da0a54a474f1110d6d9dac8536d4363</sys_id>
+        <sys_name>89a0a54a474f1110d6d9dac8536d4361</sys_name>
+        <sys_package display_value="Innovate" source="x_934430_innovate">5e70e90a474f1110d6d9dac8536d43e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">5e70e90a474f1110d6d9dac8536d43e5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_4da0a54a474f1110d6d9dac8536d4363</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
